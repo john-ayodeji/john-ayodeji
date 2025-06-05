@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Ayodeji</h1>
-<h3 align="center">a 17-year-old tech enthusiast from Osun state, Nigeria with one year of hands-on experience in the tech world. As a self-taught programmer, I specialize in backend development using node.js and express.js . Fueled by curiosity and a passion for problem-solving, I’m constantly exploring the cutting edge of technology. Let’s connect and build something amazing together</h3>
+<h3 align="center">a 17-year-old tech enthusiast from Osun state, Nigeria. I am also a 300 level student studying Software Engineering in Babcock university with almost two years of hands-on experience in the tech world. As a self-taught programmer, I specialize in backend development using node.js and express.js . Fueled by curiosity and a passion for problem-solving, I’m constantly exploring the cutting edge of technology. Let’s connect and build something amazing together</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnayodeji2008&label=Profile%20views&color=0e75b6&style=flat" alt="johnayodeji2008" /> </p>
 
