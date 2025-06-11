@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnayodeji2008" alt="johnayodeji2008" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js**
-
-- 👨‍💻 All of my projects are available at [coming sonn](coming sonn)
-
 - 📫 How to reach me **johnayodeji2008@gmail.com**
-
-- 📄 Know about my experiences [comingsoon](comingsoon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
