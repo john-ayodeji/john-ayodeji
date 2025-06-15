@@ -73,6 +73,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-ayodeji&show_icons=true&locale=en&layout=compact" alt="johnayodeji2008" /></p>
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john-ayodeji&show_icons=true&locale=en" alt="johnayodeji2008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-ayodeji&" alt="johnayodeji2008" /></p>
