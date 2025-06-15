@@ -9,11 +9,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/john-ayodeji08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-ayodeji08" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30730280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30730280" height="30" width="40" /></a>
-<a href="mailto:johnayodeji2008@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-</a>
 <a href="https://github.com/john-ayodeji" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="john-ayodeji" height="30" width="40" />
+</a>
+<a href="mailto:johnayodeji2008@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
 
 </p>
