@@ -37,6 +37,13 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=john-ayodeji&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=john-ayodeji&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/john-ayodeji" alt="Contribution Calendar" width="100%"/>
+
 ## Connect with me
+### ⚡ [Portfolio Website](https://johnayodeji.dev) <!-- My personal website -->
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/john-ayodeji08/" target="_blank">John Ayodeji</a> Email: johnayodejie@gmail.com</p>
