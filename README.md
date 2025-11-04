@@ -34,6 +34,7 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=john-ayodeji&theme=dark&show_icons=true&count_private=true">
 
+<img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" ></td><td width="50%" align="center">
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=john-ayodeji&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
