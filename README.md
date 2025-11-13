@@ -31,13 +31,21 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
 
 ## GitHub Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=john-ayodeji&theme=dark&show_icons=true&count_private=true">
+<p align="center">
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=john-ayodeji&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" alt="Boot.dev Profile" />
+</p>
 
-<img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" ></td><td width="50%" align="center">
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark"></td><td width="50%" align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-ayodeji&show_icons=true&locale=en&layout=compact" alt="johnayodeji2008" /></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=john-ayodeji&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<p align="center">
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-ayodeji&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages Compact" />
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=john-ayodeji&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages Detailed" />
+</p>
+
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=john-ayodeji&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
