@@ -29,7 +29,6 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
 
 <p align="center">
   <!-- Top row: GitHub Stats + Streak -->
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=john-ayodeji&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark" alt="GitHub Streak" height="170" />
 </p>
 
