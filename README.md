@@ -7,6 +7,9 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=fff">
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff">
