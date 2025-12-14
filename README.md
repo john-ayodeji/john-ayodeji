@@ -10,8 +10,22 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
   <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=fff">
   <img src="https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=white">
+  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlc-2D3748?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Goose-000000?logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/WSL-0D1117?logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
