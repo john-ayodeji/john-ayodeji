@@ -32,6 +32,8 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
+  <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
