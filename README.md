@@ -55,6 +55,7 @@ I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, speci
   <!-- Bottom row: Boot.dev + Two Most Used Languages -->
   <img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" alt="Boot.dev Profile" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-ayodeji&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages Compact" height="200" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-ayodeji)](https://github.com/john-ayodeji/github-readme-stats)
 </p>
 
 
