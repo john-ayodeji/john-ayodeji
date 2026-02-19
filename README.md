@@ -44,22 +44,9 @@ I'm John Ayodeji, specializing in backend engineering, mobile app development, a
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff">
 </p>
 
-## GitHub Stats
 
-<p align="center">
-  <!-- Top row: GitHub Stats + Streak -->
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <!-- Bottom row: Boot.dev + Two Most Used Languages -->
   <img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" alt="Boot.dev Profile" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-ayodeji&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages Compact" height="200" />
 </p>
-
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/john-ayodeji" alt="Contribution Calendar" width="100%"/>
 
 ## 🌐 Connect With Me
 
