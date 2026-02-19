@@ -6,6 +6,7 @@ I'm John Ayodeji, specializing in backend engineering, mobile app development, a
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
   <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=fff">
@@ -14,6 +15,8 @@ I'm John Ayodeji, specializing in backend engineering, mobile app development, a
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=white">
   <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/sqlc-2D3748?logo=postgresql&logoColor=white">
