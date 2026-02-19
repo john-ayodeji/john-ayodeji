@@ -1,6 +1,6 @@
 ## About Me
 
-I'm John Ayodeji, 17, with 3+ Years of experience. Started coding in 2020, specializing in backend engineering, mobile app development, and web development.
+I'm John Ayodeji, specializing in backend engineering, mobile app development, and web development.
 
 ## My Skills
 
