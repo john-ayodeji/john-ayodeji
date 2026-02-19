@@ -1,8 +1,5 @@
-## About Me
-
-I'm John Ayodeji, specializing in backend engineering, mobile app development, and web development.
-
-## My Skills
+## Hi, I'm John Ayodeji, 
+- I specialize in backend engineering, but i also do mobile app development, and web development.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
@@ -51,7 +48,6 @@ I'm John Ayodeji, specializing in backend engineering, mobile app development, a
   <img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" alt="Boot.dev Profile" height="200" />
 </p>
 
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://johnayodeji.dev" target="_blank">
