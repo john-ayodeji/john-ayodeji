@@ -44,11 +44,6 @@
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff">
 </p>
 
-
-  <img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" alt="Boot.dev Profile" height="200" />
-</p>
-
-
 <p align="center">
   <a href="https://johnayodeji.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌍%20Portfolio-johnayodeji.dev-blue?style=for-the-badge" alt="Portfolio" />
