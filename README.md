@@ -1,5 +1,6 @@
-## Hi, I'm John Ayodeji, 
-- I specialize in backend engineering, but i also do mobile app development, and web development.
+I'm John Ayodeji, specializing in backend engineering, mobile app development, and web development.
+
+## My Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
@@ -12,8 +13,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=white">
   <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/sqlc-2D3748?logo=postgresql&logoColor=white">
@@ -44,6 +43,25 @@
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff">
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <!-- Top row: GitHub Stats + Streak -->
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <!-- Bottom row: Boot.dev + Two Most Used Languages -->
+  <img src="https://api.boot.dev/v1/users/public/97e831f0-019c-45de-8799-4f73919dd4d4/thumbnail" alt="Boot.dev Profile" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-ayodeji&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages Compact" height="200" />
+</p>
+
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/john-ayodeji" alt="Contribution Calendar" width="100%"/>
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://johnayodeji.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌍%20Portfolio-johnayodeji.dev-blue?style=for-the-badge" alt="Portfolio" />
@@ -55,4 +73,3 @@
     <img src="https://img.shields.io/badge/Email-johnayodejie@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
-# John Ayodeji
