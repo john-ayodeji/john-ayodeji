@@ -1,62 +1,14 @@
-I'm John Ayodeji, specializing in backend engineering, mobile app development, and web development.
+hi, i'm deji :)
 
-## My Skills
+tldr:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=fff">
-  <img src="https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=white">
-  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlc-2D3748?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Goose-000000?logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/WSL-0D1117?logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=white">
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
-  <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
-  <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff">
-</p>
+  - se @ babcock
+  - I like building cool stuffs
+    - backend systems
+    - AI/ML
+    - Systems Programming
 
 <p align="center">
   <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=john-ayodeji&theme=dark" alt="GitHub Streak" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-ayodeji&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages Compact" height="200" />
-</p>
-
-
-<p align="center">
-  <a href="https://johnayodeji.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌍%20Portfolio-johnayodeji.dev-blue?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/john-ayodeji08/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Ayodeji-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:johnayodejie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnayodejie@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
 </p>
