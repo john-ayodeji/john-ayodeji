@@ -57,11 +57,6 @@ I'm John Ayodeji, specializing in backend engineering, mobile app development, a
 </p>
 
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/john-ayodeji" alt="Contribution Calendar" width="100%"/>
-
-## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://johnayodeji.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌍%20Portfolio-johnayodeji.dev-blue?style=for-the-badge" alt="Portfolio" />
