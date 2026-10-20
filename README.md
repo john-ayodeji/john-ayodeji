@@ -1,6 +1,5 @@
 hi, i'm deji :)
 
-tldr:
 
   - se @ babcock
   - training neural networks
